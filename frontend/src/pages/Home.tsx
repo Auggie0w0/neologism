@@ -5,7 +5,7 @@ import AddWordForm from '../components/AddWordForm';
 const Home: React.FC = () => {
     return (
         <div>
-            <h1>Generation X Encyclopedia</h1>
+            <h1>Neologism</h1>
             <AddWordForm />
             <WordList />
         </div>
